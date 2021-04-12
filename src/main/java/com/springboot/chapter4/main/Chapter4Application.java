@@ -8,7 +8,7 @@ import com.springboot.chapter4.aspect.MyAspect;
 import com.springboot.chapter4.aspect.MyAspect1;
 import com.springboot.chapter4.aspect.MyAspect2;
 import com.springboot.chapter4.aspect.MyAspect3;
-
+//test
 //指定扫描包
 @SpringBootApplication(scanBasePackages = { "com.springboot.chapter4.aspect" })
 public class Chapter4Application {
